@@ -1,0 +1,169 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
+.contenedor{
+    border: solid black;
+}
+
+.img1{
+    width: 1000px;
+    height: 40px;
+    margin-left: 100px;
+    transform: translateY(90px);
+}
+.img2{
+    width: 200px;
+    height: 400px;
+    margin-left: 800px;
+    transform: translateY(-350px);
+}
+h1{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+h2{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    margin-left: 90px;
+    position: relative;
+    top: 50px;
+    left: 10px;
+}
+button{
+    width: 150px;
+    height: 25px;
+    margin-left: 600px;
+    transform: translateY(-400px);
+    color: blue;
+    border: solid blue;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.img8{
+    width: 100px;
+    height: 100px;
+   
+    margin-left: -770px;
+
+}
+.img9{
+    width: 300px;
+    height: 100px;
+   
+    margin-left: 200px;
+}
+.img7{
+    width: 100px;
+    height: 100px;
+    margin-left: 1160px;
+}
+.contenedor2{
+    background-color: blue;
+    height: 90vh;
+}
+.img10{
+    width: 150vh;
+    height: 60vh;
+    margin-left: 40vh;
+    transform: translateY(30px);
+}
+.test{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 250px;
+}
+.tet{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+    left: 130px;;
+
+}
+.puntos{
+    width: 70px;
+    height: 10px;
+    transform: translateX(1000px) translateY(-30px);
+}
+.titulo{
+    font-size: 80px;
+    top: 70px;
+    left: 250px;
+}
+.image{
+    width: 900px;
+    height: 800px;
+    transform: translateX(10vh) translateY(10vh);
+}
+.subti{
+    color: blue;
+    font-size: 20px;
+    position: relative;
+    top: 200px;
+}
+.text4{
+    color: blue;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+}
+.text5{
+    color: blue;
+    font-size: 20px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+.contenedor4{
+    background-color: blue;
+    height: 90vh;
+}
+.textos{
+display: flex;
+flex-direction: column;
+}
+.titulo1{
+    color: white;
+}
+.lor{
+    color: white;
+    width: 300px;
+    font-size: 10px;
+}
+.lor2{
+    color: white;
+    width: 300px;
+    font-size: 10px;
+    position: relative;
+    top: 40px;
+    left: 100px;
+}
+.opri{
+    color: rgb(0, 47, 255);
+    width: 70px;
+    font-size: 10px;
+    transform: translateX(-300px) translateY(60px);
+    border: solid white;
+    background-color: white;
+
+}
+.img11{
+    width: 400px;
+    height: 400px;
+    transform: translateX(700px) translateY(-200px);
+
+
+}
